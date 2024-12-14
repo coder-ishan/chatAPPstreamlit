@@ -52,7 +52,6 @@ openapi-schema-pydantic==1.2.4
 overrides==7.7.0
 packaging==23.2
 pandas==2.2.3
-Pillow==9.5.0
 posthog==3.7.4
 propcache==0.2.0
 protobuf==4.25.5
